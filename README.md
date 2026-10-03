@@ -18,6 +18,10 @@ Franta memory. An optional Advisor proposes the next research subproblems and
 waits for a human selection. A local dashboard displays progress, memory,
 model usage, and feedback requests.
 
+## Statement
+
+Franta is an autonomous agent for mathematical research and exploration. The developer believes Franta is most valuable when it is used to support mathematical exploration and to help people understand and communicate mathematics, instead of replacing them.
+
 ## Requirements
 
 | Component | Requirement |
