@@ -10,6 +10,10 @@ Franta 是一个支持持久化与中断恢复的多智能体数学研究调度�
 可选的 Advisor 在每轮研究后提出下一轮子问题，等待用户选择。本地网页可查看
 研究进展、记忆、模型用量和反馈请求。
 
+## 声明
+
+Franta是一个用于数学研究和探索的agent。Franta的设计者认为Franta的价值在于支持数学研究并促进所有人对数学的理解和传播，而不是取代它们，并认可[Daniel Litt's *A Beginning for Mathematics*](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/)的大部分观点。
+
 ## 环境要求
 
 | 组件 | 要求 |
