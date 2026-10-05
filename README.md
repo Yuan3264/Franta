@@ -248,3 +248,9 @@ The current package metadata identifies the project as **Proprietary**. No
 open-source license is granted by this repository; obtain the author's
 permission for uses requiring a license. Third-party dashboard assets retain
 their own notices and licenses in [the vendor directory](src/dashboard_system/static/vendor/NOTICE.md).
+
+## Example
+
+In one example, Franta solved an open problem in mathematics using 38h16m, 900.74M research tokens, and 51 agent attempts. It also implemented its own python programs for mathematical computation.
+
+![The memory graph for this example](Franta_screenshot1.png)
